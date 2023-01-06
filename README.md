@@ -1,5 +1,5 @@
 
-# Sudoku Puzzle
+# Algorithms and Tower Of Hanoi Visualizer
 
 In this session we  will learn working of Sorting Algorithms and very famous recursion problem Tower of Hanoi, let's go->
 
