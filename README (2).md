@@ -1,0 +1,68 @@
+
+# Project Title
+
+This project is visual implementation of Sorting algorithms, used algorithms are described below-
+
+
+## Algorithms:
+
+### What is Sorting?
+->Arrarging items into logical order 
+![Login](https://embed-ssl.wistia.com/deliveries/70d6f4e10e2badb5ef394f00c17ad2bc1c14f6e7.jpg)
+
+
+
+#### 1. Bubble Sort
+->Picking Highest and putting it into last
+![BubbleSort](data:image/png;base64,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)
+
+#### 2. Insertion Sort
+->Picking item and putting it into it's place
+![InsertionSort](https://media.geeksforgeeks.org/wp-content/uploads/insertionsort.png)
+
+#### 3. Selection Sort
+->Picking item and putting it into it's place
+![SelectionSort](https://simplesnippets.tech/wp-content/uploads/2019/07/selection-sorting-featured-image.jpg)
+
+#### 4. Merge Sort
+->Based on divide and Conquer
+![MergeSort](https://www.simplilearn.com/ice9/free_resources_article_thumb/mergesort/merge_sort-what-img1.png)
+
+#### 5. Quick Sort
+->Based on divide and Conquer
+![QuickSort](https://www.geeksforgeeks.org/wp-content/uploads/gq/2014/01/QuickSort2.png)
+
+
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Sorting algorithms](https://www.geeksforgeeks.org/sorting-algorithms/)
+
+
+## Author
+
+- [Suraj Kumar](https://www.linkedin.com/in/suraj-baranwal-732865216/)
+
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
+| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
+| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
+| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+
+
+## Technology Used
+
+**Tech:** HTML5, CSS3, TailwindCSS, JS
+
+
+
+## Contributing
+
+Contributions are always welcome!
+
+Please adhere to this project's `code of conduct`.
